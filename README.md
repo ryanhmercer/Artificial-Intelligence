@@ -16,4 +16,4 @@ rarely fall to 1024.
 
 Sign_language:
 
-
+Uses convulotional neural networks to identify sign language with high accuracy. Uses the keras library in python for deep learning.
